@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 01 Mini-Project: Landing Page
 
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
@@ -89,3 +90,6 @@ Use [Google](https://www.google.com) or another search engine to research this.
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Task8
+>>>>>>> 0336e35606485d217ce1cc30e828fdc57b0563b2
