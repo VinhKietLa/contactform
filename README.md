@@ -15,6 +15,7 @@ Complete the form and press the send message when you're ready!
 - Javascript
 
 ## Preview of application
+[Live Preview](https://vinhkietla.github.io/contactform/)
 
 ![screenshot of application](screenshotOfApplication.png)
 
